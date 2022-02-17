@@ -1,2 +1,1 @@
-# coursera-curse
-coursera curse
+# coursera
